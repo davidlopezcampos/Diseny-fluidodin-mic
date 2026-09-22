@@ -8,7 +8,7 @@
 | Name | Role | GitHub username |
 |------|------|-----------------|
 |   [Name 1]   | Design     |                 |
-|   [Name 2]   | CFD     |                 |
+|   Pol Olivera   | CFD     |                 |
 |   Daniel Manjón   | Experimentation     |                 |
 
 
