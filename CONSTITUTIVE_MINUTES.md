@@ -1,6 +1,6 @@
 # Constitutive Minutes - Team [Number]
 
-**Date:*22/09/2026*
+**Date:22/09/2026**
 
 **Time:**
 
