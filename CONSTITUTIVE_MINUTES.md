@@ -9,7 +9,7 @@
 |------|------|-----------------|
 |   [Name 1]   | Design     |                 |
 |   Pol Olivera   | CFD     |        pololivera         |
-|   Daniel Manjón   | Experimentation     |                 |
+|   Daniel Manjón   | Experimentation     |  DanielManjon               |
 
 
 
