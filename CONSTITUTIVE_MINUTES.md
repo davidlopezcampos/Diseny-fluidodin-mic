@@ -7,9 +7,9 @@
 ## Team Members
 | Name | Role | GitHub username |
 |------|------|-----------------|
-|   [Name 1]   | Design     |                 |
-|   Pol Olivera   | CFD     |        pololivera         |
-|   Daniel Manjón   | Experimentation     |  DanielManjon               |
+|   David López   | Design     |   davidlopezcampos          |
+|   Pol Olivera   | CFD     |        pololivera           |
+|   Daniel Manjón   | Experimentation     |  DanielManjon |
 
 
 
