@@ -1,4 +1,4 @@
-# Constitutive Minutes - Team [Number]
+# Constitutive Minutes - Team 2
 
 **Date: 22/09/2026**
 
