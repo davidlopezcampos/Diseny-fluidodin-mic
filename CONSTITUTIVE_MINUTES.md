@@ -2,7 +2,7 @@
 
 **Date: 22/09/2026**
 
-**Time:hola**
+**Time:**
 
 ## Team Members
 | Name | Role | GitHub username |
