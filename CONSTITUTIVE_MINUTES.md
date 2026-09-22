@@ -9,7 +9,7 @@
 |------|------|-----------------|
 |   [Name 1]   | Design     |                 |
 |   [Name 2]   | CFD     |                 |
-|   [Name 3]   | Experimentation     |                 |
+|   Daniel Manjón   | Experimentation     |                 |
 
 
 
