@@ -21,9 +21,9 @@ Tunnel Ventilation Fan
 ## Brief description
 Target specifications:
 
-- Flow rate: 
-- Pressure rise: 
-- Rotational speed: 
+- Flow rate: 25 m3/s
+- Pressure rise: 600 Pa
+- Rotational speed: 1450 rpm
 
 ## Team's work regulations:
 
