@@ -19,8 +19,8 @@
 
 ## Agenda & Discussion Points
 
-1. Reading and approval of previous minutes (No. 26005)
-2. Organization of Deliverable 0
+1. Reading and approval of previous minutes (No. X)
+2. Organization of Deliverable X
 3. Task assignment and working methodology
 4. Scheduling of the next session
 
@@ -36,6 +36,8 @@
   2. *TBD*
 * **Coordinator:** David López
 * **Secretary:** *TBD*
+
+## Location, date, and time of the next meeting
 * **Location:** ESEIAAT – UPC
 * **Estimated Date:** *TBD*
 * **Time:** *TBD*
