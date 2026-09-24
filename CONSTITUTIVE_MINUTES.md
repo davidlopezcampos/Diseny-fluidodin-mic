@@ -1,8 +1,8 @@
 # Constitutive Minutes - Team 2
 
-**Date: 22/09/2026**
+**Date: 24/09/2026**
 
-**Time:**
+**Time:16:30 - 17:00**
 
 ## Team Members
 | Name | Role | GitHub username |
@@ -15,15 +15,15 @@
 
 ## Project Title
 
-Tunnel Ventilation Fan
+Design and Aerodynamic Analysis of a Tunnel Ventilation Fan
 
 
 ## Brief description
 Target specifications:
 
-- Flow rate: 25 m3/s
-- Pressure rise: 600 Pa
-- Rotational speed: 1450 rpm
+- Flow rate: 9770 m^3/h
+- Pressure rise: 280 Pa (Ø400 mm) 
+- Rotational speed: 1445 rpm
 
 ## Team's work regulations:
 
