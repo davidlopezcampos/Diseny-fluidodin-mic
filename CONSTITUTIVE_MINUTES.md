@@ -2,7 +2,7 @@
 
 **Date: 24/09/2026**
 
-**Time:16:30 - 17:00**
+**Time: 16:30 - 17:00**
 
 ## Team Members
 | Name | Role | GitHub username |
