@@ -21,9 +21,9 @@ Design and Aerodynamic Analysis of a Tunnel Ventilation Fan
 ## Brief description
 Target specifications:
 
-- Flow rate: 9770 m^3/h
-- Pressure rise: 115 Pa (Ø500 mm) 
-- Rotational speed: 1445 rpm
+- Flow rate: 8800 m^3/h
+- Pressure rise: 94 Pa (Ø500 mm) 
+- Rotational speed: 1450 rpm
 
 ## Team's work regulations:
 
