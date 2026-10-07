@@ -37,6 +37,42 @@ Figure 2 illustrates this general concept. It is included as a theoretical refer
 *Figure 2. Generic fan characteristic curves.*
 
 ## 3.-Estimated power consumption
+
+A preliminary estimate of the electrical power consumption is obtained from the target airflow and pressure rise.
+
+For this calculation, the specified pressure rise of 94 Pa is assumed to be the total pressure rise across the fan.
+
+The power transferred to the air is:
+
+$$
+P_{\mathrm{air}} = Q \Delta p_t
+$$
+
+where Q is the volumetric flow rate in m³/s and Δp_t is the
+total pressure rise in Pa.
+
+Using the project targets:
+
+$$
+Q = \frac{8800}{3600} = 2.444\ \mathrm{m^3/s}
+$$
+
+$$
+P_{\mathrm{air}} = 2.444 \times 94
+\approx 230\ \mathrm{W}
+$$
+
+To account for aerodynamic and motor losses, an overall efficiency of 50% is assumed for this preliminary estimate. This is a design assumption, not a value provided by the manufacturer.
+
+$$
+P_{\mathrm{electrical}}
+= \frac{P_{\mathrm{air}}}{\eta_{\mathrm{overall}}}
+= \frac{230}{0.50}
+\approx 460\ \mathrm{W}
+$$
+
+The estimated electrical power consumption at the target operating point is therefore approximately 0.46 kW. This estimate will be revised once the pressure definition and the fan and motor efficiencies have been established.
+
 ## 4.-Applications
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
 
