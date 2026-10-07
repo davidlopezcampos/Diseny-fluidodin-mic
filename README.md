@@ -13,8 +13,29 @@ The manufacturer provides the following dimensions for the TJHT size 500. The sy
 *Figure 1. Dimensional drawing of the TJHT series. All dimensions are in mm. Source: Soler & Palau, TJHT–TJHU catalogue, page 3*
 
 
-
 ## 2.- Performance
+
+The project uses the Soler & Palau TJHT/2/4-500-C as a commercial reference for the design of a reversible axial fan for tunnel ventilation. The fan produces an axial air jet that transfers momentum to the surrounding air, promoting longitudinal airflow through the tunnel.
+
+
+The following preliminary design targets have been adopted by the team, as stated in the constitutive minutes:
+
+| Parameter | Target value |
+|-----------|--------------|
+| Volumetric flow rate | 8800 m³/h (2.44 m³/s) |
+| Pressure rise | 94 Pa |
+| Rotational speed | 1450 rpm |
+
+These values define the intended operating conditions for the theoretical design. They are project specifications, rather than a verified operating point from the manufacturer's catalogue, and will be reviewed during the design calculations.
+
+Fan characteristic curves describe how pressure varies with airflow at a given rotational speed. They can also show how efficiency changes across the operating range.
+
+Figure 2 illustrates this general concept. It is included as a theoretical reference and does not represent the performance of the TJHT/2/4-500-C.
+
+<img width="329" height="297" alt="image" src="https://github.com/user-attachments/assets/dff147b8-1ce6-42f5-a30b-d37b3cbed890" />
+
+*Figure 2. Generic fan characteristic curves.
+
 ## 3.-Estimated power consumption
 ## 4.-Applications
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
