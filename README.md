@@ -17,7 +17,6 @@ The manufacturer provides the following dimensions for the TJHT size 500. The sy
 
 The project uses the Soler & Palau TJHT/2/4-500-C as a commercial reference for the design of a reversible axial fan for tunnel ventilation. The fan produces an axial air jet that transfers momentum to the surrounding air, promoting longitudinal airflow through the tunnel.
 
-
 The following preliminary design targets have been adopted by the team, as stated in the constitutive minutes:
 
 | Parameter | Target value |
@@ -48,9 +47,7 @@ $$
 P_{\mathrm{air}} = Q \Delta p_t
 $$
 
-where Q is the volumetric flow rate in m³/s and Δp_t is the
-total pressure rise in Pa.
-
+where Q is the volumetric flow rate in m³/s and Δp_t is the total pressure rise in Pa.
 Using the project targets:
 
 $$
