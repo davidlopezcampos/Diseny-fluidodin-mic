@@ -10,7 +10,7 @@ The manufacturer provides the following dimensions for the TJHT size 500. The sy
 <img width="1130" height="29" alt="image" src="https://github.com/user-attachments/assets/d3cf1e19-6fbe-4e20-9304-3e0ed90f3418" />
 <img width="1132" height="27" alt="image" src="https://github.com/user-attachments/assets/4cfe9d82-da63-4bdb-9ef1-4879e9105b7f" />
 
-*Figure 1. Dimensional drawing of the TJHT series. Source: Soler & Palau, TJHT–TJHU technical catalogue, page 3.*
+*Figure 1. Dimensional drawing of the TJHT series. All dimensions are in mm. Source: Soler & Palau, TJHT–TJHU catalogue, page 3*
 
 
 
