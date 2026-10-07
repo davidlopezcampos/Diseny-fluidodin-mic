@@ -6,6 +6,9 @@ The reference fan is the Soler & Palau TJHT/2/4-500-C, a reversible axial jet fa
 
 The manufacturer provides the following dimensions for the TJHT size 500. The symbols correspond to the dimensional drawing shown in Figure 1. All dimensions are expressed in millimetres.
 
+<img width="1138" height="407" alt="image" src="https://github.com/user-attachments/assets/49007a6e-48f6-4cdc-94b1-b5ec2528a902" />
+
+
 ## 2.- Performance
 ## 3.-Estimated power consumption
 ## 4.-Applications
