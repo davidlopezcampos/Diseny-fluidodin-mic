@@ -34,7 +34,7 @@ Figure 2 illustrates this general concept. It is included as a theoretical refer
 
 <img width="329" height="297" alt="image" src="https://github.com/user-attachments/assets/dff147b8-1ce6-42f5-a30b-d37b3cbed890" />
 
-*Figure 2. Generic fan characteristic curves.
+*Figure 2. Generic fan characteristic curves.*
 
 ## 3.-Estimated power consumption
 ## 4.-Applications
