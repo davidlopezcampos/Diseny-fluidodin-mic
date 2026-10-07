@@ -3,6 +3,7 @@
 ## 1.-Dimensions
 
 The reference fan is the Soler & Palau TJHT/2/4-500-C, a reversible axial jet fan with a nominal diameter of 500 mm. The commercial assembly includes the fan casing, two circular silencers, support feet and protective grilles.
+
 The manufacturer provides the following dimensions for the TJHT size 500. The symbols correspond to the dimensional drawing shown in Figure 1. All dimensions are expressed in millimetres.
 
 ## 2.- Performance
