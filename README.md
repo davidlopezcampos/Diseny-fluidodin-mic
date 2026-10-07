@@ -1,4 +1,4 @@
-# Theoretical design of an axial fan for tunnel ventilation (THT/IMP-LS-UNI-40-2/4T-1.5 )
+# Theoretical design of an axial fan for tunnel ventilation (TJHT/2/4-500-C)
 
 ## 1.-Dimensions
 
