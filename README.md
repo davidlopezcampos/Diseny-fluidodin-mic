@@ -71,9 +71,8 @@ $$
 
 The estimated electrical power consumption at the target operating point is therefore approximately 0.46 kW. This estimate will be revised once the pressure definition and the fan and motor efficiencies have been established.
 
-## 4.-Applications
 
-## 4. Applications
+## 4.-Applications
 
 According to the manufacturer, the TJHT–TJHU series consists of axial jet fans intended to move large volumes of air in tunnels, enclosed car parks and other large spaces.
 
@@ -81,7 +80,8 @@ This project focuses on tunnel ventilation, using the TJHT/2/4-500-C as its comm
 
 The manufacturer states that these fans are suitable for smoke extraction and operation at 400°C for two hours and 300°C for two hours. These capabilities apply to the commercial product and are not claimed for the theoretical design developed in this project.
 
-Source: [Soler & Palau — TJHT–TJHU technical catalogue, page 1](https://statics.solerpalau.com/media/import/documentation/EN_TJHT-TJHU.pdf).
+Source: [Soler & Palau — TJHT–TJHU technical catalogue, page 1]([https://statics.solerpalau.com/media/import/documentation/EN_TJHT-TJHU.pdf](https://solerpalau.com.br/biblioteca/produto/039/ES_TJHT-TJHU.pdf)).
+
 
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
 
