@@ -48,6 +48,7 @@ P_{\mathrm{air}} = Q \Delta p_t
 $$
 
 where Q is the volumetric flow rate in m³/s and Δp_t is the total pressure rise in Pa.
+
 Using the project targets:
 
 $$
@@ -71,6 +72,17 @@ $$
 The estimated electrical power consumption at the target operating point is therefore approximately 0.46 kW. This estimate will be revised once the pressure definition and the fan and motor efficiencies have been established.
 
 ## 4.-Applications
+
+## 4. Applications
+
+According to the manufacturer, the TJHT–TJHU series consists of axial jet fans intended to move large volumes of air in tunnels, enclosed car parks and other large spaces.
+
+This project focuses on tunnel ventilation, using the TJHT/2/4-500-C as its commercial reference. The TJHT series is reversible, allowing operation in either airflow direction.
+
+The manufacturer states that these fans are suitable for smoke extraction and operation at 400°C for two hours and 300°C for two hours. These capabilities apply to the commercial product and are not claimed for the theoretical design developed in this project.
+
+Source: [Soler & Palau — TJHT–TJHU technical catalogue, page 1](https://statics.solerpalau.com/media/import/documentation/EN_TJHT-TJHU.pdf).
+
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
 
 SODECA (THT/IMP-LS-UNI-50-2/4T-6)
