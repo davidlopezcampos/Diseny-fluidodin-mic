@@ -82,6 +82,8 @@ The manufacturer states that these fans are suitable for smoke extraction and op
 
 Source: [Soler & Palau — TJHT–TJHU technical catalogue, page 1]([https://statics.solerpalau.com/media/import/documentation/EN_TJHT-TJHU.pdf](https://solerpalau.com.br/biblioteca/produto/039/ES_TJHT-TJHU.pdf)).
 
+https://solerpalau.com.br/biblioteca/produto/039/ES_TJHT-TJHU.pdf
+
 
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
 
