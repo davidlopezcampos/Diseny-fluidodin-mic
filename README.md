@@ -2,16 +2,31 @@
 
 ## 1.-Dimensions
 
-The reference fan is the Soler & Palau TJHT/2/4-500-C, a reversible axial jet fan with a nominal diameter of 500 mm. The commercial assembly includes the fan casing, two circular silencers, support feet and protective grilles.
+The reference fan is the SODECA THT/IMP-LS-UNI-50-2/4T-6-F400, a unidirectional axial jet fan with a nominal impeller diameter of 500 mm, designed for tunnel and car park ventilation.
 
-The manufacturer provides the following dimensions for the TJHT size 500. The symbols correspond to the dimensional drawing shown in Figure 1. All dimensions are expressed in millimetres.
+The commercial assembly consists of a galvanized steel casing with reduced length, an axial impeller, an electric motor, silencers, a protective grille, an outlet deflector and mounting supports.
+
+The manufacturer provides the following dimensions for the THT/IMP-LS-50 model. The symbols correspond to the dimensional drawing shown in Figure 1. All dimensions are expressed in millimetres.
 
 <img width="1138" height="407" alt="image" src="https://github.com/user-attachments/assets/49007a6e-48f6-4cdc-94b1-b5ec2528a902" />
 <img width="1130" height="29" alt="image" src="https://github.com/user-attachments/assets/d3cf1e19-6fbe-4e20-9304-3e0ed90f3418" />
 <img width="1132" height="27" alt="image" src="https://github.com/user-attachments/assets/4cfe9d82-da63-4bdb-9ef1-4879e9105b7f" />
 
-*Figure 1. Dimensional drawing of the TJHT series. All dimensions are in mm. Source: Soler & Palau, TJHT–TJHU catalogue, page 3*
+*Figure 1. Dimensional drawing of the SODECA THT/IMP-LS-50. All dimensions are in mm. Source: SODECA, THT/IMP technical catalogue, page 5.*
 
+| Dimension | Value (mm) |
+|-----------|--------------|
+| A | 546 |
+| B | 549 |
+| C | 742 |
+| E – Overall length | 1445 |
+| L – Casing length | 1200 |
+| X | 560 |
+| X1 | 255 |
+| Z | 778 |
+| Z1 | 808 |
+
+The nominal impeller diameter of 500 mm is used as the initial reference for the theoretical fan design. The detailed rotor geometry will be defined in the next stages of the project.
 
 ## 2.- Performance
 
