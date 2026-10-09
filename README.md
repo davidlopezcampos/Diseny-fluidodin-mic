@@ -8,9 +8,7 @@ The commercial assembly consists of a galvanized steel casing with reduced lengt
 
 The manufacturer provides the following dimensions for the THT/IMP-LS-50 model. The symbols correspond to the dimensional drawing shown in Figure 1. All dimensions are expressed in millimetres.
 
-<img width="1138" height="407" alt="image" src="https://github.com/user-attachments/assets/49007a6e-48f6-4cdc-94b1-b5ec2528a902" />
-<img width="1130" height="29" alt="image" src="https://github.com/user-attachments/assets/d3cf1e19-6fbe-4e20-9304-3e0ed90f3418" />
-<img width="1132" height="27" alt="image" src="https://github.com/user-attachments/assets/4cfe9d82-da63-4bdb-9ef1-4879e9105b7f" />
+<img width="382" height="137" alt="Dimensions Fan" src="https://github.com/user-attachments/assets/c1c9b665-8b0b-4547-bff5-b25fd3dc717a" />
 
 *Figure 1. Dimensional drawing of the SODECA THT/IMP-LS-50. All dimensions are in mm. Source: SODECA, THT/IMP technical catalogue, page 5.*
 
