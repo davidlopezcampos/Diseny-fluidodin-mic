@@ -123,10 +123,10 @@ Source: [SODECA — THT/IMP Technical Catalogue](https://www.sodeca.com).
 
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
 
-SODECA (THT/IMP-LS-UNI-50-2/4T-6)
-- VELOCIDAD: 1445 RPM
-- PRESIÓN: 103 Pa (Ø500 mm)
-- CAUDAL: 9770 m^3/h
+SOLER & PALAU (TJHT/2/4-500-C)
+- VELOCIDAD: 1440 RPM
+- PRESIÓN: 94 Pa (Ø500 mm)
+- CAUDAL: 8800 m^3/h
 
 ZITRÓN (JZp 4/H-1,5/0,37-2/4 RE F400)
 - VELOCIDAD: 2845 RPM
