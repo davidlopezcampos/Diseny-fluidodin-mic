@@ -65,41 +65,48 @@ Figure 2 illustrates this general concept. It is included as a theoretical refer
 
 *Figure 2. Generic fan characteristic curves.*
 
-## 3.-Estimated power consumption
 
-A preliminary estimate of the electrical power consumption is obtained from the target airflow and pressure rise.
+## 3.- Estimated power consumption
 
-For this calculation, the specified pressure rise of 94 Pa is assumed to be the total pressure rise across the fan.
+A preliminary estimate of the electrical power consumption is obtained from the reference airflow rate and the estimated dynamic pressure of the air jet.
 
-The power transferred to the air is:
+The selected low-speed operating condition corresponds to a volumetric flow rate of 9766 m³/h, an outlet velocity of 13.09 m/s and a rotational speed of 1445 rpm.
 
-$$
-P_{\mathrm{air}} = Q \Delta p_t
-$$
+The dynamic pressure of the jet, calculated in Section 2, is approximately 103 Pa.
 
-where Q is the volumetric flow rate in m³/s and Δp_t is the total pressure rise in Pa.
-
-Using the project targets:
+The aerodynamic power associated with the air jet can be estimated as:
 
 $$
-Q = \frac{8800}{3600} = 2.444\ \mathrm{m^3/s}
+P_{\mathrm{jet}} = Q p_d
+$$
+
+where Q is the volumetric flow rate in m³/s and p_d is the jet dynamic pressure in Pa.
+
+Using the reference operating conditions:
+
+$$
+Q = \frac{9766}{3600} = 2.713\ \mathrm{m^3/s}
 $$
 
 $$
-P_{\mathrm{air}} = 2.444 \times 94
-\approx 230\ \mathrm{W}
+P_{\mathrm{jet}} = 2.713 \times 103
+\approx 279\ \mathrm{W}
 $$
 
-To account for aerodynamic and motor losses, an overall efficiency of 50% is assumed for this preliminary estimate. This is a design assumption, not a value provided by the manufacturer.
+To obtain a preliminary estimate of the electrical power consumption, an overall jet-power efficiency of 50% is assumed. This is a simplified design assumption and not a value provided by the manufacturer.
 
 $$
-P_{\mathrm{electrical}}
-= \frac{P_{\mathrm{air}}}{\eta_{\mathrm{overall}}}
-= \frac{230}{0.50}
-\approx 460\ \mathrm{W}
+P_{\mathrm{electrical,est}}
+= \frac{P_{\mathrm{jet}}}{\eta_{\mathrm{overall}}}
+= \frac{279}{0.50}
+\approx 558\ \mathrm{W}
 $$
 
-The estimated electrical power consumption at the target operating point is therefore approximately 0.46 kW. This estimate will be revised once the pressure definition and the fan and motor efficiencies have been established.
+The estimated electrical power consumption is therefore approximately 0.56 kW under the assumed efficiency.
+
+According to the SODECA technical catalogue, the selected fan has a nominal motor power of 1.30 kW at low speed. This represents the installed motor power rating and should not be interpreted as the actual electrical power consumption at the operating point.
+
+The estimated consumption of 0.56 kW is preliminary and will be reviewed during the next design stages.
 
 
 ## 4.-Applications
