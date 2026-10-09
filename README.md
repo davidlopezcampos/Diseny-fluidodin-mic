@@ -111,14 +111,15 @@ The estimated consumption of 0.56 kW is preliminary and will be reviewed during 
 
 ## 4.-Applications
 
-According to the manufacturer, the TJHT–TJHU series consists of axial jet fans intended to move large volumes of air in tunnels, enclosed car parks and other large spaces.
+According to the manufacturer, the SODECA THT/IMP series consists of axial jet fans designed to generate high-velocity air jets for ventilation and smoke control in enclosed spaces, particularly car parks.
 
-This project focuses on tunnel ventilation, using the TJHT/2/4-500-C as its commercial reference. The TJHT series is reversible, allowing operation in either airflow direction.
+These fans transfer momentum to the surrounding air, promoting airflow over long distances without requiring conventional air distribution ductwork.
 
-The manufacturer states that these fans are suitable for smoke extraction and operation at 400°C for two hours and 300°C for two hours. These capabilities apply to the commercial product and are not claimed for the theoretical design developed in this project.
+This project focuses on tunnel ventilation, using the SODECA THT/IMP-LS-UNI-50-2/4T-6-F400 as a commercial reference. In tunnels, jet fans can be used to promote longitudinal airflow, dilute pollutants during normal operation and assist smoke management in emergency situations.
 
-Source: [Soler & Palau — TJHT–TJHU technical catalogue, page 1](https://solerpalau.com.br/biblioteca/produto/039/ES_TJHT-TJHU.pdf).
+The selected model is unidirectional and has an F400 classification, indicating that the commercial fan is certified for operation at 400°C for two hours according to EN 12101-3. This certification applies to the commercial product and is not claimed for the theoretical design developed in this project.
 
+Source: [SODECA — THT/IMP Technical Catalogue](https://www.sodeca.com).
 
 ## 5.- Examples of different axial fans dedicated to tunnel ventilation
 
