@@ -28,21 +28,38 @@ The nominal impeller diameter of 500 mm is used as the initial reference for the
 
 ## 2.- Performance
 
-The project uses the Soler & Palau TJHT/2/4-500-C as a commercial reference for the design of a reversible axial fan for tunnel ventilation. The fan produces an axial air jet that transfers momentum to the surrounding air, promoting longitudinal airflow through the tunnel.
+The project uses the SODECA THT/IMP-LS-UNI-50-2/4T-6-F400 as a commercial reference for the theoretical design of an axial jet fan for tunnel ventilation. The fan generates an axial air jet that transfers momentum to the surrounding air, promoting longitudinal airflow through the tunnel.
 
-The following preliminary design targets have been adopted by the team, as stated in the constitutive minutes:
+The selected fan operates at two rotational speeds, providing different airflow rates and thrust levels. The manufacturer specifies the following performance characteristics:
 
-| Parameter | Target value |
-|-----------|--------------|
-| Volumetric flow rate | 8800 m³/h (2.44 m³/s) |
-| Estimated jet dynamic pressure | 94 Pa |
-| Rotational speed | 1450 rpm |
+| Parameter | High speed | Low speed |
+|-----------|------------|-----------|
+| Rotational speed (rpm) | 2915 | 1445 |
+| Volumetric flow rate (m³/h) | 19700 | 9766 |
+| Outlet air velocity (m/s) | 26.4 | 13.09 |
+| Thrust (N) | 165 | 40.55 |
 
-These values define the intended operating conditions for the theoretical design. They are project specifications, rather than a verified operating point from the manufacturer's catalogue, and will be reviewed during the design calculations.
+*Table 1. Performance characteristics of the SODECA THT/IMP-LS-UNI-50-2/4T-6-F400. Source: SODECA QuickFan selection software.*
 
-Fan characteristic curves describe how pressure varies with airflow at a given rotational speed. They can also show how efficiency changes across the operating range.
+For the preliminary theoretical design, the low-speed operating condition (1445 rpm) is selected as the reference point. This operating condition provides a volumetric flow rate of approximately 9770 m³/h and a jet thrust of 40.55 N.
 
-Figure 2 illustrates this general concept. It is included as a theoretical reference and does not represent the performance of the TJHT/2/4-500-C.
+The dynamic pressure of the air jet can be estimated using:
+
+$$
+p_d = \frac{1}{2}\rho v^2
+$$
+
+Assuming an air density of 1.2 kg/m³ and an outlet velocity of 13.09 m/s:
+
+$$
+p_d = \frac{1}{2}(1.2)(13.09)^2 \approx 103\ \mathrm{Pa}
+$$
+
+This value represents the estimated jet dynamic pressure and should not be interpreted as the total pressure rise across the fan.
+
+Fan characteristic curves describe the relationship between pressure and airflow at a given rotational speed. They can also show how efficiency changes across the operating range.
+
+Figure 2 illustrates this general concept. It is included as a theoretical reference and does not represent the performance of the selected SODECA fan.
 
 <img width="329" height="297" alt="image" src="https://github.com/user-attachments/assets/dff147b8-1ce6-42f5-a30b-d37b3cbed890" />
 
