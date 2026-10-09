@@ -22,7 +22,7 @@ The following preliminary design targets have been adopted by the team, as state
 | Parameter | Target value |
 |-----------|--------------|
 | Volumetric flow rate | 8800 m³/h (2.44 m³/s) |
-| Pressure rise | 94 Pa |
+| Estimated jet dynamic pressure | 94 Pa |
 | Rotational speed | 1450 rpm |
 
 These values define the intended operating conditions for the theoretical design. They are project specifications, rather than a verified operating point from the manufacturer's catalogue, and will be reviewed during the design calculations.
